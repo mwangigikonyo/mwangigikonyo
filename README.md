@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mwangigikonyo
+- 👋 Hi, I’m Mwangi wa Gikonyo
 - 👀 I’m interested in serving humanity one commit at a time.
 - 🌱 I’m currently learning newer web tech after a long break from the scene.
 - 💞️ I’m looking to collaborate on projects that touch on renewable/sustainable energy, health, agriculture, commerce.
